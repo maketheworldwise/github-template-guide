@@ -1,0 +1,72 @@
+[
+    {
+        "name": "👥 Communication Needed",
+        "color": "c7dcf9",
+        "description": "논의 필요"
+    },
+    {
+        "name": "👀 Review Needed",
+        "color": "f7838d",
+        "description": "리뷰 필요"
+    },
+    {
+        "name": "📢 Answer Needed",
+        "color": "01b3b6",
+        "description": "PR 담당자 답변 필요"
+    },
+    {
+        "name": "🙆🏻‍♂️ Merge Needed",
+        "color": "01cc92",
+        "description": "머지 필요"
+    },
+    {
+        "name": "🏃 In Review",
+        "color": "9ED447",
+        "description": "리뷰 중"
+    },
+    {
+        "name": "😋 Simple Review",
+        "color": "98caa3",
+        "description": "빠른 리뷰 가능"
+    },
+    {
+        "name": "✨ Feature",
+        "color": "a2eeef",
+        "description": "기능 개발"
+    },
+    {
+        "name": "🐞 Bug",
+        "color": "d73a4a",
+        "description": "버그"
+    },
+    {
+        "name": "🧑‍🎨 Style",
+        "color": "FEF2C0",
+        "description": "스타일링"
+    },
+    {
+        "name": "🔨 Refactor",
+        "color": "f29a4e",
+        "description": "리팩토링"
+    },
+    {
+        "name": "🛠 Settings",
+        "color": "e3dede",
+        "description": "개발 환경 설정"
+    },
+    {
+        "name": "🌏 Deploy",
+        "color": "C2E0C6",
+        "description": "배포"
+    },
+    {
+        "name": "📃 Docs",
+        "color": "1D76DB",
+        "description": "문서 작성 및 수정"
+    },
+    {
+        "name": "✅ Test",
+        "color": "ccffc4",
+        "description": "테스트"
+    }
+]
